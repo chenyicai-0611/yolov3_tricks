@@ -1,0 +1,4 @@
+classes= 2
+train=data/custom/train.txt
+valid=data/custom/val.txt
+names=data/custom/face.names
